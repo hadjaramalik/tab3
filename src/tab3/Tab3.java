@@ -19,6 +19,7 @@ public class Tab3 {
         //question 1
        int[][]ventes=new int[4][5];
        Scanner sc= new Scanner(System.in);
+       System.out.println("bonjour");
         for(int i=0;i<4;i++){
             for(int j=0;j<5;j++){
                 //Terminal.ecrireString("entrez les ventes du modele numero");
@@ -65,4 +66,4 @@ public class Tab3 {
     
 }
     
-}
+
